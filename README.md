@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![siyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyam333)](https://github.com/anuraghazra/github-readme-stats)
-https://github-profile-trophy.vercel.app/?username=siyam333&row=2&column=3
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siyam333" alt="teejaswan" /></a>
