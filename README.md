@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siyam333&show_icons=true&locale=en&layout=compact" alt="siyam333" /></p>
-<p>[![siyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=siyam333)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siyam333&show_icons=true&locale=en" alt="siyam333" /></p>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siyam333" alt="teejaswan" /></a>
